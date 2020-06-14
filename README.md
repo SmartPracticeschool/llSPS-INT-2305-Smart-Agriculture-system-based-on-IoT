@@ -2,6 +2,10 @@
 
  A smart agriculture system is developed using IBM IOT simulator, IBM IOT cloud platform, weather API and node-red.
  
+ project demo video link : https://youtu.be/Vk97liZiB6U
+ Internship feedback video link: https://drive.google.com/file/d/18kMhF7BJQuHn53KaR9jTPwYVBIssUIsE/view?usp=sharing
+ 
+ 
  
  'flow'- it is node-red flow used for developing the smart agriculture system along with web ui
  
